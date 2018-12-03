@@ -1,0 +1,3 @@
+Uncompress Test_Oled_SSD1327_U8g2_Brzo.zip file on same directory as .zip are (a bounch of files more than 100 file librarys are created to avoid issues on directory place for test).
+Place all content from parent directory /Test_Oled_SSD1327_U8g2_Brzo on arduino IDE skectch directory
+Run the .ino for test direct u8g2 calls (not ussing U8g2lib multi device library) with brzo_i2c with esp8266 hal.
